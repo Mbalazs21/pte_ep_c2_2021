@@ -14,4 +14,3 @@ print("A number változó értéke: {:^3} Ha megszorzom kettovel: {:^5}-t kapok"
 #számformátumok
 number = 125
 print(f"A szám bináris alakja:{number:b} az oktális alakja: {number:o} a decimális alakja: {number:d} hexadecimális {number:x} és {number:x}".format(number, number,number,number, number))
-      
